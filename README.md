@@ -1,6 +1,6 @@
 EQUIPO CORAJE: 
 Arriaga Vázquez Mariana 
-Mendoza Lara Victor Manuel 
+Mendoza Lara Victor Manuel
 Muñoz Salazar Leonardo Manuel 
 Saldaña Cornejo Mariane 
 Torres Páramo Diego Alejandro 
