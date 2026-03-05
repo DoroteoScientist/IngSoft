@@ -62,3 +62,10 @@ button:hover{
     flex-direction: column;
     justify-content: center;
 }
+.integrante{
+    display: none;
+}
+
+.integrante.active{
+    display: block;
+}
