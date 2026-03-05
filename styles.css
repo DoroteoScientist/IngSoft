@@ -1,0 +1,8 @@
+/*Mostrar un integrante */
+.integrante{
+    display: none;
+}
+
+.integrante.active{
+    display: block;
+}
